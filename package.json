@@ -1,0 +1,15 @@
+{
+  "name": "bases-node",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación de tabla de multiplicar que genera un txt con dicha tabla.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edith Montes",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.2.2"
+  }
+}
